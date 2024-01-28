@@ -1,3 +1,4 @@
+/* eslint-disable no-undef */
 /* eslint-disable no-unused-vars */
 import styles from "./Body.module.css";
 import SearchTemplate from "../SearchTemplate/SearchTemplate";
